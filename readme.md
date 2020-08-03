@@ -35,7 +35,7 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 3. How to use stylus/graphic tablet with screen sharing and write on the screen.
 
-4. Improving UI.
+4. Improving UI by making website responsive.
 
 **SKILLS/TECH  USED:**
 
